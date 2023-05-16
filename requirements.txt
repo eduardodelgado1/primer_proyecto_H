@@ -161,3 +161,4 @@ xgboost==1.7.5
 xlrd==2.0.1
 y-py==0.5.9
 ypy-websocket==0.8.2
+unicorn
