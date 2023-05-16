@@ -144,6 +144,7 @@ tornado==6.2
 tqdm==4.65.0
 traitlets==5.7.1
 typing_extensions==4.5.0
+unicorn==2.0.1.post1
 uri-template==1.2.0
 urllib3==1.26.15
 uvicorn==0.21.1
@@ -160,5 +161,3 @@ xgboost==1.7.5
 xlrd==2.0.1
 y-py==0.5.9
 ypy-websocket==0.8.2
---use-feature=fast-deps
-unicorn
